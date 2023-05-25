@@ -9,20 +9,6 @@ body {
     Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
 }
 
-/* aside {
-  bg : color red */
-/* position : fixed */
-/* top 0 */
-/* width 400px */
-/* min-height: 100vh */
-/* transform: translateX(-150%) */
-/* transition: transform all 0,3s linear */
-
-/* .show-sidebar {
-  transform: translate(0);
-  /* display: none */
-/* } */
-
 main {
   min-height: 100vh;
   background: rgb(235, 246, 251);
